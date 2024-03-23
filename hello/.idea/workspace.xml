@@ -9,15 +9,22 @@
   <component name="ChangeListManager">
     <list default="true" id="005ed608-8a21-475d-9106-fbca64da93be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/debug/deps/hello-0f0f39516974cdd4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/hello-0f0f39516974cdd4.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/debug/hello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/hello.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -102,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711200561297</updated>
       <workItem from="1711200563199" duration="896000" />
-      <workItem from="1711201490430" duration="2679000" />
+      <workItem from="1711201490430" duration="3337000" />
     </task>
     <servers />
   </component>

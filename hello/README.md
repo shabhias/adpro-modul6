@@ -23,7 +23,7 @@ Fungsi handle connection yang telah di update:
 
 
 
-## commit 3
+## COMMIT 3
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cJs8mCV/Screenshot-2024-03-23-211812.png" alt="Screenshot-2024-03-23-211812" border="0"></a>
 <a href="https://ibb.co/6ZpSHz0"><img src="https://i.ibb.co/mBYK9k5/Screenshot-2024-03-23-212024.png" alt="Screenshot-2024-03-23-212024" border="0"></a>
@@ -34,10 +34,17 @@ Fungsi handle_connection yang dimodifikasi berperan sebagai server HTTP yang sed
 
 Maka dari itu, fungsi handle_connection yang telah dimodifikasi ini menanggapi dengan konten yang berbeda berdasarkan permintaan yang diterima. Jika permintaan adalah untuk jalur root, server akan memberikan tanggapan dengan hello.html. Jika tidak, server akan memberikan tanggapan dengan halaman 404.html yang menunjukkan bahwa sumber daya yang diminta tidak ditemukan.
 
-## commit 4
+## COMMIT 4
 
 Pada fungsi handle_connection yang telah dimodifikasi, terdapat beberapa perubahan untuk menangani permintaan tertentu, yaitu GET /sleep HTTP/1.1. Jika permintaan adalah GET / HTTP/1.1, maka respons adalah HTTP/1.1 200 OK dengan konten dari hello.html. Namun, jika permintaan adalah GET /sleep HTTP/1.1, server akan delay selama 10 detik sebelum memberikan respons dengan konten dari hello.html. Jika permintaan tidak cocok, respons adalah HTTP/1.1 404 NOT FOUND dengan konten dari 404.html. Setelah menentukan respons, konten file dibaca dan respons HTTP yang sesuai dibangun sebelum ditulis kembali ke client melalui aliran TCP.
 
+
+## COMMIT 5
+
+1. Kita memulai thread pool dengan ukuran tertentu untuk menentukan jumlah thread pekerja, membuat channel (mpsc::channel) untuk komunikasi antara utas utama dan pekerja, serta membuat vektor untuk menyimpan thread worker pada saat ThreadPool initialization (ThreadPool::new). Selain itu, setiap thread worker memiliki struktur Worker yang menerima pekerjaan melalui channel.
+2. Pada saat Worker creation (Worker::new), setiap thread pekerja memiliki loop tak terbatas yang menunggu pekerjaan.Saat pekerjaan diterima, thread pekerja akan mengeksekusinya.
+3. thread utama mengirimkan job ke salah satu thread worker melalui channel. Job kemudian dieksekusi oleh thread worker pada Job Execution (ThreadPool::execute)
+4. Setelah itu pada konkurensi dan Komunikasi ini, Arc<Mutex<mpsc::Receiver<Job>>>dibagikan di antara semua thread worker. Ini memungkinkan beberapa thread untuk mengakses ujung penerima channel dengan aman. Channel mpsc (multi-producer, single-consumer) memungkinkan pengiriman job secara bersamaan dan aman antara thread worker.
 
 
 
