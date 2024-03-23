@@ -34,6 +34,13 @@ Fungsi handle_connection yang dimodifikasi berperan sebagai server HTTP yang sed
 
 Maka dari itu, fungsi handle_connection yang telah dimodifikasi ini menanggapi dengan konten yang berbeda berdasarkan permintaan yang diterima. Jika permintaan adalah untuk jalur root, server akan memberikan tanggapan dengan hello.html. Jika tidak, server akan memberikan tanggapan dengan halaman 404.html yang menunjukkan bahwa sumber daya yang diminta tidak ditemukan.
 
+## commit 4
+
+Pada fungsi handle_connection yang telah dimodifikasi, terdapat beberapa perubahan untuk menangani permintaan tertentu, yaitu GET /sleep HTTP/1.1. Jika permintaan adalah GET / HTTP/1.1, maka respons adalah HTTP/1.1 200 OK dengan konten dari hello.html. Namun, jika permintaan adalah GET /sleep HTTP/1.1, server akan delay selama 10 detik sebelum memberikan respons dengan konten dari hello.html. Jika permintaan tidak cocok, respons adalah HTTP/1.1 404 NOT FOUND dengan konten dari 404.html. Setelah menentukan respons, konten file dibaca dan respons HTTP yang sesuai dibangun sebelum ditulis kembali ke client melalui aliran TCP.
+
+
+
+
 
 
 
