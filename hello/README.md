@@ -21,3 +21,19 @@ Fungsi handle connection yang telah di update:
 
 <a href="https://ibb.co/b7d1PCy"><img src="https://i.ibb.co/qx1Bdc4/Screenshot-2024-03-23-210521.png" alt="Screenshot-2024-03-23-210521" border="0"></a>
 
+
+
+## commit 3
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cJs8mCV/Screenshot-2024-03-23-211812.png" alt="Screenshot-2024-03-23-211812" border="0"></a>
+<a href="https://ibb.co/6ZpSHz0"><img src="https://i.ibb.co/mBYK9k5/Screenshot-2024-03-23-212024.png" alt="Screenshot-2024-03-23-212024" border="0"></a>
+
+Fungsi handle_connection yang dimodifikasi berperan sebagai server HTTP yang sederhana. Ia membaca baris permintaan dari klien dalam permintaan HTTP dan memeriksa apakah itu merupakan permintaan GET / HTTP/1.1, yang menandakan permintaan untuk jalur root (/). Berdasarkan pemeriksaan ini, fungsi memberikan tanggapan dengan konten yang berbeda:
+1. Jika permintaan adalah untuk jalur root (GET / HTTP/1.1), fungsi akan memberikan tanggapan dengan baris status HTTP/1.1 200 OK. Selanjutnya, ia membaca konten dari file bernama hello.html, menghitung panjangnya, membuat tanggapan HTTP yang berisi konten tersebut, dan mengirimkannya kembali ke klien.
+2. Jika permintaan bukan untuk jalur root (menandakan bahwa sumber daya yang diminta tidak ditemukan), fungsi akan memberikan tanggapan dengan baris status HTTP/1.1 404 NOT FOUND. Kemudian, ia membaca konten dari file bernama 404.html, menghitung panjangnya, membuat tanggapan HTTP yang berisi konten tersebut, dan mengirimkannya kembali ke klien.
+
+Maka dari itu, fungsi handle_connection yang telah dimodifikasi ini menanggapi dengan konten yang berbeda berdasarkan permintaan yang diterima. Jika permintaan adalah untuk jalur root, server akan memberikan tanggapan dengan hello.html. Jika tidak, server akan memberikan tanggapan dengan halaman 404.html yang menunjukkan bahwa sumber daya yang diminta tidak ditemukan.
+
+
+
+
