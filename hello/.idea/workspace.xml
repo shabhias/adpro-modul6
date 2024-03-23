@@ -9,8 +9,58 @@
   <component name="ChangeListManager">
     <list default="true" id="005ed608-8a21-475d-9106-fbca64da93be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/hello-0f0f39516974cdd4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/hello-0f0f39516974cdd4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/hello.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/hello.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1d42wk1b5ws1ywb0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1lx6mrt9koifby8o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1sm2neqn5h3t3a06.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1w3mn69b433dpldo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1xhqphkcss6p1635.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/1yny4jz4nvfgdyfp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/24u8seqx3goscaeb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/25xsthkbrdvm54vb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/28tsik1ls36awm74.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2c4wn7ctrf5sdag.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2g2oiu559p9moy38.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2h17s1kzoghd6nhv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2kprah98bep7kd0f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2mgpxat2tk48aefq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2mq6rth6xvsdmlhk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2p10l7hxy9n8qa67.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2s4g7y72bg5jfji1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2uprpoxeht20olyp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/2yf2e12e1j53f4bj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/335uspgvov31ur6w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/33caghl00y60l693.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/35jlrobg6hvih6me.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3e96iapzp8qbt4qk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3jcn30utn2e8x0m7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3m9fao41xqasq3pc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3nlryh8fbnktjdvs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3ntvvpnaq8e1onhl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/3wnvr8z2x9wjjwh2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4jg1hb9db9u9o370.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4jzj40k1828pxddk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4mxvnxah44kwrq18.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4pl1ha7vmiifw4jx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4q77ilflz5vvn1ln.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4rnvoz7zvelwb4g8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4wlqdyivzs8ctp4q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/4y0esgyovvht8vr8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/5dg3eqroisums3ga.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/5fioxgen2sfymwno.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/5pnre3et02b2l82.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/5x9w8yze61i11z7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/61h2ber0vpt2czb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/6ahhzovueq9uuo9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/mohxkbcdhftwjoz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6-arb8ts4re2k8rynby7vhkh960/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/hello-2cqgmvq7taye2/s-gukiv3lcit-5cdaz6.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,31 +76,32 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2e5htIjh9Vn7ix2NxKILv9P96i6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.first.attach.projects.stats": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cargo.Run hello.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.first.attach.projects.stats&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Cargo.Run hello">
     <configuration name="Run hello" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run --package hello --bin hello" />
@@ -98,7 +149,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711200561297</updated>
-      <workItem from="1711200563199" duration="517000" />
+      <workItem from="1711200563199" duration="896000" />
+      <workItem from="1711201490430" duration="1293000" />
     </task>
     <servers />
   </component>
